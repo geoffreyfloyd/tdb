@@ -1,8 +1,0 @@
-{
-    "date": "2015-05-04T04:00:00.000Z",
-    "entry": "performed",
-    "duration": 60,
-    "rootActionId": null,
-    "details": "Study: Implement Flexbox styles\n\nvar styles = { row: { backgroundColor: 'white', alignItems: 'center', flexDirection: 'row, padding: 6 } };",
-    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
-}

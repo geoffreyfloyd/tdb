@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 480,
-    "date": "2015-12-03T07:00:00.000Z",
-    "details": "Add cache debugging helpers.\nUpdate support docs for Customizing HTML5 Kiosk: add section explaining the URL parts & a step instructing support to click the link under PowerDisplay.\nRefactor logout code to shared store.\nImplement keyboard shortcuts for developers in ReactApps.\nGenerate Site Authentication URL key in App.",
-    "entry": "performed"
-}

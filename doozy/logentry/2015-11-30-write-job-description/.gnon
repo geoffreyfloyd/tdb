@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 480,
-    "date": "2015-11-30T07:00:00.000Z",
-    "details": "Write job description &amp; code test.\nMigrate react-dom-layout to assembla.\nConfigure Jenkins to run tests for react-dom-layout.\nAdd Jenkins config for ReactAppPortal.\nWrite docs for setting up IIS for ReactAppPortal.\nBackup Jenkins config to Dropbox w/ script.\nCreate test configuration for testing react components.\nExamine JenkinsUtil to determine what it does and if it should easily be replaced.\n",
-    "entry": "performed"
-}

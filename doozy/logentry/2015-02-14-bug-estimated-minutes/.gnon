@@ -1,8 +1,0 @@
-{
-    "date": "2015-02-14T05:00:00.000Z",
-    "entry": "performed",
-    "duration": 20,
-    "rootActionId": null,
-    "details": "BUG: Estimated minutes isn't pulling in Log Action dialog",
-    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
-}

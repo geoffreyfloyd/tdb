@@ -1,9 +1,0 @@
-{
-    "actionId": null,
-    "rootActionId": null,
-    "actionName": "",
-    "duration": 0,
-    "date": "2016-06-24",
-    "details": "- Progress with Pie (90% complete)\n- QA Fixes\n- Ability to Hide the Chart Legend in options\n- Hardware nodes are coming in as all Drivers (devices?)\n- Fix sort order (Customers before Sites before Devices before certain kinds of Devices)\n- Get correct device icons in Nodes\n- fix layout issue with long names on nodes that aren't containers",
-    "entry": "performed"
-}

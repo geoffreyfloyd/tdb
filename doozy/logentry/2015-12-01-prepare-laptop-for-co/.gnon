@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 480,
-    "date": "2015-12-01T07:00:00.000Z",
-    "details": "Prepare laptop for code test.\nPull stores into Playground.\nRefactor WeatherReport.\nFix bug that unsubscribes & resubscribes to the same kiosk theme.\nBatch SVN commit for Jenkins config.\nEmail code test to Seyman.\nInvestigate failed build email notify failure.\nAdd README.md to Jenkins svn folder.\nComment methods in JenkinsUtil.\nAdd svn upgrade & nuget restore automation when pulling a fresh repo.\nAdd JenkinsUtil to ReactAppPortal.\nUpdate JenkinsUtil to create \"versions\" dir if it does not already exist.",
-    "entry": "performed"
-}

@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 0,
-    "date": "2016-03-08T07:00:00.000Z",
-    "details": "-fix bugs in drag and drop implementation\n-add \"New\" button in NodePickerDialog and remove create button from Charts view",
-    "entry": "performed"
-}

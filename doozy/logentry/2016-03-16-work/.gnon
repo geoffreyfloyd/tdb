@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 0,
-    "date": "2016-03-16T06:00:00.000Z",
-    "details": "-code review of support-link merge request\n-continued research and troubleshooting of localization to discover root causes\n-update core libs w/ latest to resolve localization issue\n-localization of resources\n-starting work on portfolio view\n-resolve key warnings in CustomerEdit\n-fix links to not reload the page",
-    "entry": "performed"
-}
