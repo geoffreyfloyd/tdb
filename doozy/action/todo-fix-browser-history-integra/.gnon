@@ -1,0 +1,1 @@
+{"kind":"Action","name":"TODO: Fix Browser History Integration","created":"2016-04-01T13:09:34.209Z","duration":0,"content":"While going to another view seems to create another browser history entry, going back doesn't change the view to the previous one.","beginDate":null,"nextDate":null,"isPublic":false,"recurrenceRules":[],"items":[],"ordinal":null}
