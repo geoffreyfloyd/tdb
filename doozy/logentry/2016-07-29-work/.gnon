@@ -1,0 +1,9 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-07-29",
+    "details": "- I may have spoken too soon about Edge, I did some research that says History API works in it, and somehow magically it's working now. Maybe some kind of domino effect bug was happening while I was running hot dev, but that's never happened before in any other browser.\n- It's very telling of its perceived readiness by MS itself that it has an \"Open with Internet Explorer\" command in Edge's menu.\n- I' still like to put off the styling mods to the InputGroup and InputTable components that are only necessary for Edge, for the following reasons:\n\t1. Because it's so young, this issue might be resolved over time\n\t2. Windows 10 comes with IE 11 by default, so there is a native solution (we don't have to tell our customers to download Chrome or Firefox)\n\t3. Selish desires: I'm tired of dealing with styling and layout for the time being. I want to build something.\n",
+    "entry": "performed"
+}
