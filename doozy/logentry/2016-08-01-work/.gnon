@@ -4,6 +4,6 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-01",
-    "details": "- modify style to always display pointer when canSelectRow is true\n- help troubleshoot blank request body",
+    "details": "- modify style to always display pointer when canSelectRow is true\n- help troubleshoot blank request body\n- ",
     "entry": "performed"
 }
