@@ -1,0 +1,9 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-07-06",
+    "details": "- drag drop sort\n- style choose columns dialog and display popup info\n- fix bug in Footer Cells not refreshing with DataTableCOntroller",
+    "entry": "performed"
+}
