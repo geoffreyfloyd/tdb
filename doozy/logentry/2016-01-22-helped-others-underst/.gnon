@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 0,
-    "date": "2016-01-22T07:00:00.000Z",
-    "details": "Helped others understand git. Resolved assemblyinfo.cs issues and jenkins build server issues. After a later discussion we decided to move back to SVN. Rolled back changes to jenkins and local configs that were switched from the svn projects to git projects.",
-    "entry": "performed"
-}

@@ -1,9 +1,0 @@
-{
-    "actionId": null,
-    "rootActionId": null,
-    "actionName": "",
-    "duration": 0,
-    "date": "2016-05-17",
-    "details": "- Add drilldown handler for Charts view\n- Setup new laptop\n- Fix InputTable and Query Config bugs for Atilio",
-    "entry": "performed"
-}

@@ -1,8 +1,0 @@
-{
-    "date": "2014-12-31T00:00:00.000Z",
-    "entry": "performed",
-    "duration": 120,
-    "rootActionId": null,
-    "details": "ADD: Tree view adding of objectives and milestones, icon that toggles through available types (Objective, Milestone, Action)",
-    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
-}

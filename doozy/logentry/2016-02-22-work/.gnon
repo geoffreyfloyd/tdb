@@ -1,8 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 0,
-    "date": "2016-02-22",
-    "details": "Extend and refactor EntityPickerInput into NodePickerInput.\nFix bug in the ViewMixin that causes the Save and Undo not to display.\n",
-    "entry": "performed",
-    "kind": "performed"
-}

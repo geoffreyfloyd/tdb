@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 0,
-    "date": "2016-01-18T07:00:00.000Z",
-    "details": "========== CODEBLOG\n## When Writing an API, Pay Mind to the Semantics\n\nSemantics primarily come to mind in the context of a petty critique, however, when it comes to an API, a poorly designed semantic structure can breakdown an otherwise valuable library of logic into a clunky, unusable mess.\n\nGreat APIs are easy to read, intuitive to use, and self-documenting.\n\n\n== RANDOM =========================================\ngames are too bloody and realistic for my taste. i just want a fun, cartoonish platformer like super mario. and i'd prefer it not to hold me to the same boring laws of physics that we have in the real world.",
-    "entry": "performed"
-}

@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 0,
-    "date": "2016-04-01T06:00:00.000Z",
-    "details": "- update core libs with dakey changes and merge into master, then merge master into portfolio",
-    "entry": "performed"
-}

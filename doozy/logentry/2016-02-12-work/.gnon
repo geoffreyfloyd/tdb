@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 600,
-    "date": "2016-02-12T07:00:00.000Z",
-    "details": "Add client error reporting base api.\nAdd hardware store.\nExtend OutputCacheWebApi with request body and authenticated user keying.\n(Work on) Write Forms and Input API Overview whitepaper for developers.",
-    "entry": "performed"
-}

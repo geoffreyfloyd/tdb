@@ -1,9 +1,0 @@
-{
-    "actionId": null,
-    "rootActionId": null,
-    "actionName": "",
-    "duration": 0,
-    "date": "2016-05-16",
-    "details": "- Cursor for Nodes does not display correctly in IE: cross-browser grab\n- fix json fetch issue that affects FF and Chrome OS & deploy quickfix to prod\n- project cleanup\n  - rename jsx extensions to js and remove webpack config resolutions for jsx and coffee\n  - remove unused components and packages\n  - pull react-dom-layout into project\n  - move DynamicView and NodeNavigator to Views folder\n  - rename Gauge to PowerGauge and GaugeIcon to Gauge\n  - move components in IO to Components/Forms and Components as applicable\n  - move dev dependency to appropriate section",
-    "entry": "performed"
-}

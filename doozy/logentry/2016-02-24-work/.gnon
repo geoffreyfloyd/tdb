@@ -1,8 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 0,
-    "date": "2016-02-24",
-    "details": "- Work on managing favorites w/ sub-store refactor\n- Resolve Kiosk Bug (Ticket #55319) and tag v0.2.2\n- Resolve Kiosk Theme Color Bug that was introduced to master branch when merging in latest CoreLib.\n- Support Benjer Petersen for the NRELAuto app.\n",
-    "entry": "performed",
-    "kind": "performed"
-}

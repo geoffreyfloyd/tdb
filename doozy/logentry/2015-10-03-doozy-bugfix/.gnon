@@ -1,8 +1,0 @@
-{
-    "date": "2015-10-03T06:00:00.000Z",
-    "entry": "performed",
-    "duration": 20,
-    "rootActionId": null,
-    "details": "BUG: Can't change Action Target to a Tag Target",
-    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
-}
