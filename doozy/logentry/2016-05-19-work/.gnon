@@ -1,0 +1,9 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-05-19",
+    "details": "- Finish up mofolio solution and put in merge request\n- popup info solution\n- Write preview and production deployment documentation\n- Fix bug with entityStore.request\n- Started site info view (and portfolio links)",
+    "entry": "performed"
+}
