@@ -4,6 +4,6 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-18",
-    "details": "- store fixes, mods and refactors\n  - invalidate node cache when entities are added/updated\n  - move model building logic to the Models\n  - add ParentKey to HardwareConfig, SiteConfig, and UserConfig\n  - rename ParentCustomerKey to ParentKey in CustomerConfig\n- refactor http api calls\n  - log all api errors in http\n  - remove useless catches that only rethrow\n  - add catches in views to notify user of failed save attempts",
+    "details": "- fix issue with hasChanged prop changing not updating hasChanged state\n- store fixes, mods and refactors\n  - invalidate node cache when entities are added/updated\n  - move model building logic to the Models\n  - add ParentKey to HardwareConfig, SiteConfig, and UserConfig\n  - rename ParentCustomerKey to ParentKey in CustomerConfig\n- refactor http api calls\n  - log all api errors in http\n  - remove useless catches that only rethrow\n  - add catches in views to notify user of failed save attempts",
     "entry": "performed"
 }
