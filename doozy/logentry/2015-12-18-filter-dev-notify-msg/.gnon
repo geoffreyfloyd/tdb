@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 480,
-    "date": "2015-12-18T07:00:00.000Z",
-    "details": "Filter dev notify msg by URL or Site ID.\nCreate a Support App to allow Support to force a refresh or send a msg to clients.\nFix page internval disabled bug in Kiosk.\n",
-    "entry": "performed"
-}

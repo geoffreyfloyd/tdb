@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 480,
-    "date": "2015-12-15T07:00:00.000Z",
-    "details": "Properly handle [0] arrays in timer as disabling the timer instead of using it as a looping interval.\nAdd settings button when username does not start w/ \"guest_site\"\nOverview vs Normal chart.\nDouble-up footer size when logos exist.\nHandle \"File not found\" for Images.\nAdd \"Get Public URL\" option in settings.",
-    "entry": "performed"
-}

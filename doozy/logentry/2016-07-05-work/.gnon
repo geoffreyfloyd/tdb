@@ -1,9 +1,0 @@
-{
-    "actionId": null,
-    "rootActionId": null,
-    "actionName": "",
-    "duration": 0,
-    "date": "2016-07-05",
-    "details": "- Help Matt with Layouts\n- Code review of charts2 branch\n- DateRangeBar refactor for robust sizing (layoutContext)\n- 25% progress with Column Resizing solution",
-    "entry": "performed"
-}

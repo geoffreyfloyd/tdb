@@ -1,8 +1,0 @@
-{
-    "date": "2015-05-13T04:00:00.000Z",
-    "entry": "performed",
-    "duration": 0,
-    "rootActionId": null,
-    "details": "GEICO: Research why they are billing me on 5/23/2015\n\nhttps://ecams.geico.com/ecams/login.xhtml?goto=https%3A%2F%2Fservice.geico.com%3A443%2Finsite%2FiEntry%3Faffinity%3DEMAILGE000001%26adlink%3DF%26token%3Droq2XIj0JpGx5LNmy4MWBKyFXySxPC2B6RJzkNbHrFs%253D%26start%3DPG04%26&agentRejectReason=1\n\n04/21/2015 \nWithdrawal Bill Payment #471709 / GEICO *AUTO MACON DC \n$351.90 \n\n04/21/2015 \nWithdrawal Bill Payment #465444 / GEICO *AUTO MACON DC \n$50.23\n\nSent Inquiry on: 05/13/2015 \nConfirmation Number: 22GD-E1F030AH-18D51G9",
-    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
-}

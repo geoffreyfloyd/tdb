@@ -1,9 +1,0 @@
-{
-    "actionId": null,
-    "rootActionId": null,
-    "actionName": "",
-    "duration": 0,
-    "date": "2016-05-27",
-    "details": "- minor forms implementation fixes and refactors\n- query business logic changes\n  - raise title validation to 100 char max\n  - add new fields isSummary, dataItem.custom, dataItem.layer\n  - rename sourceName to source and expose in view\n  - fix logic to allow data items without a site and hardware selection\n  - hide device column when isSummary is checked\n  - use Layer field to modify the ordering of rows, which controls the chart draw order\n  - set devices list to 'ProdKWH' when isSummary is checked",
-    "entry": "performed"
-}

@@ -1,9 +1,0 @@
-{
-    "actionId": null,
-    "rootActionId": null,
-    "actionName": "",
-    "duration": 0,
-    "date": "2016-06-15",
-    "details": "- Troubleshoot and fix layout min width issue\n- More progress w/ AlertTimelineChart\n- fix site local date on kiosk (ZD#63297)\n  - send local date strings for lastChangedLocal and runningSince (no 'Z')\n  - remove parseJsonDate that became obsolete once we stopped relying on Newtonsoft to serialize dates, use parseISO8601String instead\n  - remove str.utcFlag hack and have a dedicated formatUTC function available if needed\n  - remove dateUtils.formatDate and call str.format in DynamicView\n- Apply min width to Powertrack",
-    "entry": "performed"
-}
