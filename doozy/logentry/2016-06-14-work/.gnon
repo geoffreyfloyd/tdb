@@ -1,0 +1,9 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-06-14",
+    "details": "- Troubleshoot GetTreeNodes issues\n- Add Browser Offset to AlertHistory request object to get proper range\n- Resolve DateRangeBar issue with entering a date in browsers that do not provide a date picker\n- Start building AlertTimelineChart",
+    "entry": "performed"
+}
