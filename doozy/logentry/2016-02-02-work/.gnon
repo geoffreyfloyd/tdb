@@ -1,0 +1,1 @@
+{"rootActionId":null,"duration":0,"date":"2016-02-02T07:00:00.000Z","details":"Fix bug with entity-store not properly binding the callback when subscribing to the timer store for polling.","entry":"performed"}
