@@ -4,6 +4,6 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-16",
-    "details": "rework DateRangeBar to handle simple dropdown behavior and be stateful of when the dropdown is open or not.",
+    "details": "- rework DateRangeBar to handle simple dropdown behavior and be stateful of when the dropdown is open or not.",
     "entry": "performed"
 }
