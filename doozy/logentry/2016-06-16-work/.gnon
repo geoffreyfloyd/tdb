@@ -1,0 +1,9 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-06-16",
+    "details": "- Work on Timeline Chart form and styling\n- troubleshoot Alert History results not including expected alerts that are active in selected range (it seems to only include ones ACTIVATED in the selected range)\n- Filter table by timeline date clicked (click filtered date to unfilter)",
+    "entry": "performed"
+}
