@@ -4,6 +4,6 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-17",
-    "details": "- fix invalid key refs that caused the label style of the multi line inputs",
+    "details": "- fix invalid key refs that caused the label style of the multi line inputs t",
     "entry": "performed"
 }
