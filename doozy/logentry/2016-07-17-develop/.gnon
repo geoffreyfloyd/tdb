@@ -4,6 +4,6 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-07-17",
-    "details": "- modify accuracy to use the total number of measures to calc accuracy // ie. you can OVERDO it in a week and UP your accuracy. 3 a week isn't all or none, it is partial, all, or overdone\n- retitle \"Accuracy\" stat to \"Consistency\"\n- add new Stat named \"Flow\"\n- ",
+    "details": "- modify accuracy to use the total number of measures to calc accuracy // ie. you can OVERDO it in a week and UP your accuracy. 3 a week isn't all or none, it is partial, all, or overdone\n- retitle \"Accuracy\" stat to \"Consistency\"\n- add new Stat named \"Flow\" \n- ",
     "entry": "performed"
 }
