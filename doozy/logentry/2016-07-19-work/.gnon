@@ -4,6 +4,6 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-07-19",
-    "details": "o continue window manager solution",
+    "details": "refactor $getFlex to flex and create notifications toaster",
     "entry": "performed"
 }
