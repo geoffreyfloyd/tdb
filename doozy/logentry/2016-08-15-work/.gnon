@@ -4,6 +4,6 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-15",
-    "details": "- resolve cache validation issue that affects the node store supersets by refactoring the supersets to be an object rather than an array with props appended to it.\n",
+    "details": "\n- resolve cache validation issue that affects the node store supersets by refactoring the supersets to be an object rather than an array with props appended to it.\n",
     "entry": "performed"
 }
