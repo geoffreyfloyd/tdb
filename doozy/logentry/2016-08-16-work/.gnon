@@ -4,6 +4,6 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-16",
-    "details": "- rework DateRangeBar to handle simple dropdown behavior and be stateful of when the dropdown is open or not. This was done because moving the cursor out of the dropdown area should not hide the popup",
+    "details": "- rework DateRangeBar to handle simple dropdown behavior and be stateful of when the dropdown is open or not. This was done because moving the cursor out of the dropdown area should not hide the popup in this ",
     "entry": "performed"
 }
