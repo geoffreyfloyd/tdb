@@ -4,6 +4,6 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-07-20",
-    "details": "- write Wizard and WizardPane base to help Matt along\n- fix issues with watchDom and test new solution on all browsers\n- fixes in response to Atilio's code review of windowstacks branch\n- do code review for Atilio's ",
+    "details": "- write Wizard and WizardPane base to help Matt along\n- fix issues with watchDom and test new solution on all browsers\n- fixes in response to Atilio's code review of windowstacks branch\n- do code review for Atilio's merge request of ",
     "entry": "performed"
 }
