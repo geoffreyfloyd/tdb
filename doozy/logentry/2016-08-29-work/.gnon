@@ -1,0 +1,9 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-08-29",
+    "details": "- fix hamburger invisibility issue in Kiosk\n- open current view or navigate to a new tab",
+    "entry": "performed"
+}
