@@ -1,0 +1,9 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-05-23",
+    "details": "- cleanup siteinfo branch, merged into master, review and update ticket statuses",
+    "entry": "performed"
+}
