@@ -1,0 +1,9 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-08-24",
+    "details": "- ability to mutate model based changes with mutate={()=>func} in input properties that Forms API will call whenever a dependent field changes",
+    "entry": "performed"
+}
