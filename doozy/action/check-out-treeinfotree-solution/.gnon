@@ -1,0 +1,1 @@
+{"kind":"Action","name":"Check out TreeInfoTree solution","created":"2016-02-09T04:33:03.930Z","duration":0,"content":"TreeInfoTree tree = new TreeInfoTree(ctxt.CustomerID);\ntree.InsertNodes(enumerableITreeNodes);\nTreeInfo sitenode = tree.Get(sid,TargetType.Site);","beginDate":null,"nextDate":null,"isPublic":false,"recurrenceRules":[],"items":[],"ordinal":null}
