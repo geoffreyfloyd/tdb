@@ -4,6 +4,6 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-15",
-    "details": "resolve cache validation issue\n    : Change structure of entity store supersets results to define a property name that will contain the array of results, rather than looking",
+    "details": "resolve cache validation issue that affects the node store supersets",
     "entry": "performed"
 }
