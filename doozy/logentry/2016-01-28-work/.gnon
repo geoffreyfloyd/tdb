@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 480,
-    "date": "2016-01-28T07:00:00.000Z",
-    "details": "Build an InputTable to meet our need for a collection-based form input structure that fits in with the rest of the input controls neatly. Implement InputTable in QueryEdit, and add two new enum lists: CondenseFunction and  ChartField. Add more details to user story map.",
-    "entry": "performed"
-}

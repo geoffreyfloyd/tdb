@@ -1,8 +1,0 @@
-{
-    "date": "2015-06-05T04:00:00.000Z",
-    "entry": "performed",
-    "duration": 30,
-    "rootActionId": null,
-    "details": "Go back function is flawed\n\nAfter adding a new step to the plan user gets stuck in the plan steps view ",
-    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
-}

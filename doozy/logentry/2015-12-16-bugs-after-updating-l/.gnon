@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 480,
-    "date": "2015-12-16T07:00:00.000Z",
-    "details": "Bugs after updating libs - troubleshoot.\nChange File.Description to File.Notes.\nUse <br /> to start a new paragraph.\nUpdate Support Docs.\nReconnect SignalR on disconnect.",
-    "entry": "performed"
-}

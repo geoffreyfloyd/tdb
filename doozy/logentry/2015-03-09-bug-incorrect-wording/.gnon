@@ -1,8 +1,0 @@
-{
-    "date": "2015-03-09T04:00:00.000Z",
-    "entry": "performed",
-    "duration": 3,
-    "rootActionId": null,
-    "details": "BUG: Incorrect wording for Repeat Interval",
-    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
-}

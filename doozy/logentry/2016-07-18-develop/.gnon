@@ -1,9 +1,0 @@
-{
-    "actionId": null,
-    "rootActionId": null,
-    "actionName": "",
-    "duration": 0,
-    "date": "2016-07-18",
-    "details": "o fix bug with targets and calendar recognizing it is a today (as of 11am)",
-    "entry": "performed"
-}

@@ -1,9 +1,0 @@
-{
-    "actionId": null,
-    "rootActionId": null,
-    "actionName": "",
-    "duration": 0,
-    "date": "2016-06-23",
-    "details": "- remove flawed logic that attempts to detect overflow and instead use explicit options to set the layout strategy using flexbox concepts\n- refactor and fix layouts in PowerTrack and Kiosk apps\n- do not require key for composed layout children (supply childIndex as key when no other key is supplied)\n- get rid of window min size hack and develop clean cross-browser solution\n- properly handle scrollbars cross-browser\n- update readme for layouts api",
-    "entry": "performed"
-}

@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 480,
-    "date": "2015-12-02T07:00:00.000Z",
-    "details": "Investigate: Can i get theme w/o cache, or somehow invalidate it?\nImplement Site Guest authentication.\nMeet w/ Jen to discuss HTML5 url auth.",
-    "entry": "performed"
-}
