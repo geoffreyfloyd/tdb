@@ -4,6 +4,6 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-01",
-    "details": "- modify SelectableCell row style to always display pointer when canSelectRow is true\n- help troubleshoot blank request body\n- create location store and map view\n- fix chart menu scroll bug",
+    "details": "- modify SelectableCell style to always display pointer when canSelectRow is true\n- help troubleshoot blank request body\n- create location store and map view\n- fix chart menu scroll bug",
     "entry": "performed"
 }
