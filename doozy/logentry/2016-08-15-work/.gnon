@@ -4,6 +4,6 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-15",
-    "details": "- work on \n- modify the vs code environment settings to exclude folders from the searches to speed it up\n- resolve cache validation issue that affects the node store supersets by refactoring the supersets to be an object rather than an array with props appended to it.",
+    "details": "- work on DateRangeBar custom dates \n- modify the vs code environment settings to exclude folders from the searches to speed it up\n- resolve cache validation issue that affects the node store supersets by refactoring the supersets to be an object rather than an array with props appended to it.",
     "entry": "performed"
 }
