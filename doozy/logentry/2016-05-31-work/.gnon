@@ -1,0 +1,9 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-05-31",
+    "details": "- add output fields to query config\n- site hardware production store\n- portfolio mods: right justify numbers and keep row detail in kw/kwH\n- add deployment status to portfolio\n- add iPods environmental\no ensure that we invalidate the script bundle when it's been updated, with some kind of hash string\n\nI Iooked at MS source for Bundle and ScriptBundle, and the JsMinify() is really the only diff.\nWe should obsolete GotDeviceData (which i assumed was an event callback until a checked that it is a static method) as well as obsolete the HardwareInfo.LastData field, and in favor use a more explicit GetPrimaryRegisterData(hi) that returns a string.",
+    "entry": "performed"
+}
