@@ -1,0 +1,1 @@
+{"rootActionId":null,"duration":0,"date":"2016-02-11T07:00:00.000Z","details":"Fix longstanding issue that occurs when switching between a dashkey auth and forms auth without doing a full log out.\nAdd Homes and Natural Gas environmentals and refactor the component to simplify code.","entry":"performed"}
