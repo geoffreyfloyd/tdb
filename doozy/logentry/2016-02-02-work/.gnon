@@ -1,1 +1,1 @@
-{"rootActionId":null,"duration":0,"date":"2016-02-02T07:00:00.000Z","details":"Fix bug with entity-store not properly binding the callback when subscribing to the timer store for polling.","entry":"performed"}
+{"rootActionId":null,"duration":0,"date":"2016-02-02T07:00:00.000Z","details":"Fix bug with entity-store not properly binding the callback when subscribing to the timer store for polling.\nFix issue: adding or removing from InputTable collection does not trigger revalidation.\n","entry":"performed"}
