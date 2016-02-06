@@ -1,1 +1,1 @@
-{"kind":"Action","name":"Water plants","created":"2016-01-16T21:07:39.498Z","duration":0,"content":"The snake plant should be checked once a month","nextDate":"2016-02-16T07:00:00.000Z","isPublic":false,"recurrenceRules":["RRULE:FREQ=MONTHLY"],"items":[],"ordinal":null}
+{"kind":"Action","name":"Water plants","created":"2016-01-16T21:07:39.498Z","duration":0,"content":"The snake plant should be checked once a month","nextDate":"2016-01-26T07:00:00.000Z","isPublic":false,"recurrenceRules":["RRULE:FREQ=MONTHLY"],"items":[],"ordinal":null}
