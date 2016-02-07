@@ -1,1 +1,1 @@
-{"kind":"Action","name":"BUG: duration doesn't seem to save in action and logentry","created":"2016-01-20T16:45:59.121Z","duration":0,"content":null,"nextDate":null,"isPublic":false,"recurrenceRules":[],"items":[],"ordinal":null}
+{"kind":"Action","name":"BUG: duration doesn't seem to save in action","created":"2016-01-20T16:45:59.121Z","duration":0,"content":null,"nextDate":null,"isPublic":false,"recurrenceRules":[],"items":[],"ordinal":null}
