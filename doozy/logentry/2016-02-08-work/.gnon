@@ -1,1 +1,1 @@
-{"rootActionId":null,"duration":0,"date":"2016-02-08T07:00:00.000Z","details":"Push and tag ReactAppPortal release to resolve issue in chart query.\n","entry":"performed"}
+{"rootActionId":null,"duration":0,"date":"2016-02-08T07:00:00.000Z","details":"Push and tag ReactAppPortal release to resolve issue in chart query.\npull in new core libs and change project framework targets to net461\n","entry":"performed"}
