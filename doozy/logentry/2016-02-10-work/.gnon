@@ -1,1 +1,1 @@
-{"rootActionId":null,"duration":0,"date":"2016-02-10T07:00:00.000Z","details":"Fix Site Hardware and Fields assembly logic.","entry":"performed"}
+{"rootActionId":null,"duration":0,"date":"2016-02-10T07:00:00.000Z","details":"Fix Site Hardware and Fields assembly logic.\nTighten up and comment Forms API.\nImplement web exception error logging module to prevent w3wc.exe crash that occurs when on unhandled ASP.NET exceptions with a secured Admin eyes only log viewing page built in.","entry":"performed"}
