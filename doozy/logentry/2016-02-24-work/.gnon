@@ -1,1 +1,1 @@
-{"rootActionId":null,"duration":0,"date":"2016-02-24T07:00:00.000Z","details":"Work on managing favorites.\nWork on Kiosk Bug (Ticket #55319)","entry":"performed"}
+{"rootActionId":null,"duration":0,"date":"2016-02-24T07:00:00.000Z","details":"Work on managing favorites.\nWork on Kiosk Bug (Ticket #55319)\nResolve Kiosk Theme Color Bug that was introduced to master branch when merging in latest CoreLib.\n","entry":"performed"}
