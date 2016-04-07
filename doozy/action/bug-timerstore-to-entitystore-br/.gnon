@@ -1,1 +1,0 @@
-{"kind":"Action","name":"BUG: TimerStore to EntityStore breakdown when context id is undefined","created":"2016-04-07T14:14:17.410Z","duration":0,"content":"Also, seems there is another timerstore consumers leak","beginDate":null,"nextDate":null,"isPublic":false,"recurrenceRules":[],"items":[],"ordinal":null}
