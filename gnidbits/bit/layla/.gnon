@@ -1,1 +1,16 @@
-{"caption":"Layla by Eric Clapton","videos":[{"src":"https://www.youtube.com/watch?v=ZtxO1gwbHPQ","start":7,"end":null}],"images":[],"links":[],"notes":[],"texts":[],"version":2,"isNew":false}
+{
+    "caption": "Layla by Eric Clapton",
+    "videos": [
+        {
+            "src": "https://www.youtube.com/watch?v=ZtxO1gwbHPQ",
+            "start": 7,
+            "end": null
+        }
+    ],
+    "images": [],
+    "links": [],
+    "notes": [],
+    "texts": [],
+    "version": 2,
+    "isNew": false
+}
