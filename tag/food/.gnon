@@ -1,1 +1,5 @@
-{"kind":"Tag","name":"food","content":null}
+{
+    "kind": "Tag",
+    "name": "food",
+    "content": null
+}
