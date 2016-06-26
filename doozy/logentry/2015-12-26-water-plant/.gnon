@@ -1,1 +1,7 @@
-{"rootActionId":null,"duration":2,"date":"2015-12-26T07:00:00.000Z","details":"watered the snake plant","entry":"performed"}
+{
+    "rootActionId": null,
+    "duration": 2,
+    "date": "2015-12-26T07:00:00.000Z",
+    "details": "watered the snake plant",
+    "entry": "performed"
+}
