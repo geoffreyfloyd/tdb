@@ -1,1 +1,7 @@
-{"name":"fingerstyle","kind":"Tag","path":"/fingerstyle/","isFocus":false,"content":null}
+{
+    "name": "fingerstyle",
+    "kind": "Tag",
+    "path": "/fingerstyle/",
+    "isFocus": false,
+    "content": null
+}
