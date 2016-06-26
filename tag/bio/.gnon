@@ -1,1 +1,7 @@
-{"name":"bio","kind":"Tag","path":"/bio/","isFocus":false,"content":null}
+{
+    "name": "bio",
+    "kind": "Tag",
+    "path": "/bio/",
+    "isFocus": false,
+    "content": null
+}
