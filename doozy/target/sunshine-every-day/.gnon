@@ -1,1 +1,14 @@
-{"userId":"db6f45f8-0c0e-4135-9a29-0be2c79a4eb1","name":"Sunshine Every Day","entityType":"Tag","entityId":"sunshine","created":"2015-06-24T23:52:08.383Z","retire":null,"measure":0,"number":1,"starts":"2015-09-21T00:00:00.000Z","period":3,"multiplier":1,"retireWhenMet":false}
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "Sunshine Every Day",
+    "entityType": "Tag",
+    "entityId": "sunshine",
+    "created": "2015-06-24T23:52:08.383Z",
+    "retire": null,
+    "measure": 0,
+    "number": 1,
+    "starts": "2015-09-21T00:00:00.000Z",
+    "period": 3,
+    "multiplier": 1,
+    "retireWhenMet": false
+}
