@@ -1,1 +1,11 @@
-{"caption":"Serious Clap","videos":[],"images":[{"src":"/my/gnidbits/bit/express-serious-clap/serious-clap.gif"}],"notes":[],"texts":[]}
+{
+    "caption": "Serious Clap",
+    "videos": [],
+    "images": [
+        {
+            "src": "/my/gnidbits/bit/express-serious-clap/serious-clap.gif"
+        }
+    ],
+    "notes": [],
+    "texts": []
+}
