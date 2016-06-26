@@ -1,1 +1,7 @@
-{"rootActionId":null,"duration":0,"date":"2016-02-21T07:00:00.000Z","details":"Morning Warm up","entry":"performed"}
+{
+    "rootActionId": null,
+    "duration": 0,
+    "date": "2016-02-21T07:00:00.000Z",
+    "details": "Morning Warm up",
+    "entry": "performed"
+}
