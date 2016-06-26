@@ -1,1 +1,11 @@
-{"caption":"UI Testing","videos":[],"images":[{"src":"/my/gnidbits/bit/express-ui-testing/ui-testing.gif"}],"notes":[],"texts":[]}
+{
+    "caption": "UI Testing",
+    "videos": [],
+    "images": [
+        {
+            "src": "/my/gnidbits/bit/express-ui-testing/ui-testing.gif"
+        }
+    ],
+    "notes": [],
+    "texts": []
+}
