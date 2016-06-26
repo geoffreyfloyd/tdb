@@ -1,1 +1,15 @@
-{"caption":"Does he look like a bitch?","videos":[{"src":"https://www.youtube.com/embed/ysXMUj7XJ5Q","start":36,"end":40}],"images":[],"notes":[],"texts":[],"version":3,"isNew":false}
+{
+    "caption": "Does he look like a bitch?",
+    "videos": [
+        {
+            "src": "https://www.youtube.com/embed/ysXMUj7XJ5Q",
+            "start": 36,
+            "end": 40
+        }
+    ],
+    "images": [],
+    "notes": [],
+    "texts": [],
+    "version": 3,
+    "isNew": false
+}
