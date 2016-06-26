@@ -1,1 +1,11 @@
-{"caption":"I'm Super Cereal, Guys!","videos":[],"images":[{"src":"/my/gnidbits/bit/express-very-serious/seagul-serious.gif"}],"notes":[],"texts":[]}
+{
+    "caption": "I'm Super Cereal, Guys!",
+    "videos": [],
+    "images": [
+        {
+            "src": "/my/gnidbits/bit/express-very-serious/seagul-serious.gif"
+        }
+    ],
+    "notes": [],
+    "texts": []
+}
