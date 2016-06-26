@@ -1,1 +1,7 @@
-{"name":"funny","kind":"Tag","path":"/funny/","isFocus":false,"content":null}
+{
+    "name": "funny",
+    "kind": "Tag",
+    "path": "/funny/",
+    "isFocus": false,
+    "content": null
+}
