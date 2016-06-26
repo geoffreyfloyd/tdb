@@ -1,1 +1,13 @@
-{"caption":"Man Who Sold The World by Nirvana","videos":[{"src":"https://www.youtube.com/watch?v=fregObNcHC8","start":null,"end":null}],"images":[],"notes":[],"texts":[]}
+{
+    "caption": "Man Who Sold The World by Nirvana",
+    "videos": [
+        {
+            "src": "https://www.youtube.com/watch?v=fregObNcHC8",
+            "start": null,
+            "end": null
+        }
+    ],
+    "images": [],
+    "notes": [],
+    "texts": []
+}
