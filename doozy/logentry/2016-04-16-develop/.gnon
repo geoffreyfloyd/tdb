@@ -1,1 +1,7 @@
-{"rootActionId":null,"duration":0,"date":"2016-04-16T06:00:00.000Z","details":"migrating doozy to new op project (6h)","entry":"performed"}
+{
+    "rootActionId": null,
+    "duration": 0,
+    "date": "2016-04-16T06:00:00.000Z",
+    "details": "migrating doozy to new op project (6h)",
+    "entry": "performed"
+}
