@@ -7,7 +7,7 @@
     "retire": null,
     "measure": 0,
     "number": 1,
-    "starts": "2016-06-26T00:00:00.000Z",
+    "starts": "2016-06-26",
     "period": 3,
     "multiplier": 1,
     "retireWhenMet": false
