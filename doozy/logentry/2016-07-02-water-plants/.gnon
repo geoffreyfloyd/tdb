@@ -1,0 +1,14 @@
+{
+    "rootActionId": null,
+    "duration": 0,
+    "date": "2016-07-02",
+    "details": "",
+    "entry": "performed",
+    "kind": "performed",
+    "actions": [
+        {
+            "id": "water-plants",
+            "name": "Water plants"
+        }
+    ]
+}
