@@ -1,6 +1,6 @@
 {
     "rootActionId": null,
-    "duration": "60",
+    "duration": 60,
     "date": "2016-04-18",
     "details": " -troubleshoot/fix chart date update bug: short-term=component-patch, long-term=chart-api-NOW-arg, update outputwebapicache to accept a static func that determines the duration of the cache\n-review query refactor from bill and give proper feedback\n",
     "entry": "performed",
