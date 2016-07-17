@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-07-17",
-    "details": "- retitle \"Accuracy\" stat to \"Consistency\"\n    - add new Stat named \"Flow\"\n    - fix average stat (Flow) calculation\n    - add popover descriptions for stats",
+    "details": "- retitle \"Accuracy\" stat to \"Consistency\"\n- add new Stat named \"Flow\"\n    - fix average stat (Flow) calculation\n    - add popover descriptions for stats",
     "entry": "performed",
     "kind": "performed"
 }
