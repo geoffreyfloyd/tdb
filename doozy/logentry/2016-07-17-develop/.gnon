@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-07-17",
-    "details": "- retitle \"Accuracy\" stat to \"Consistency\"\n- add new Stat named \"Flow\"\n- fix average stat (Flow) calculation\n- add popover descriptions for stats\n- add New Action and New Log to the Modes dropdown menu\n- fix bug filtering in Logs view",
+    "details": "- retitle \"Accuracy\" stat to \"Consistency\"\n- add new Stat named \"Flow\"\n- fix average stat (Flow) calculation\n- add popover descriptions for stats\n- add New Action and New Log to the Modes dropdown menu\n- fix bug in tag filtering in Logs view",
     "entry": "performed",
     "kind": "performed"
 }
