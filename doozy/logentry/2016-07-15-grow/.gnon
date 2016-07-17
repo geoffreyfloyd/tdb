@@ -4,6 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-07-15",
-    "details": "Practice Spanish =4hrs",
-    "entry": "performed"
+    "details": "- Practice Spanish =4hrs",
+    "entry": "performed",
+    "kind": "performed"
 }
