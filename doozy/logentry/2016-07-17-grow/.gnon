@@ -4,6 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-07-17",
-    "details": "- Movements: Arm rolls, swings, hangs",
-    "entry": "performed"
+    "details": "- Movements: Arm rolls, swings, hangs, throws",
+    "entry": "performed",
+    "kind": "performed"
 }
