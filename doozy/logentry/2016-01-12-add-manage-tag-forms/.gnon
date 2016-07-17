@@ -1,7 +1,8 @@
 {
     "rootActionId": null,
     "duration": 0,
-    "date": "2016-01-12T05:46:44.005Z",
+    "date": "2016-01-12",
     "details": "Add manage tag forms",
-    "entry": "performed"
+    "entry": "performed",
+    "kind": "performed"
 }
