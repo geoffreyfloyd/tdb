@@ -1,7 +1,8 @@
 {
     "rootActionId": null,
     "duration": 0,
-    "date": "2016-04-10T06:00:00.000Z",
+    "date": "2016-04-10",
     "details": "made good headway migrating doozy to the new operator system",
-    "entry": "performed"
+    "entry": "performed",
+    "kind": "performed"
 }
