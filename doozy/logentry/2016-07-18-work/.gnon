@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-07-18",
-    "details": "- merge in jen and atilio's branches\n- clean up and push branch with smaller fixes and changes\n- refactor DataTable/DataTableController\n- work with Matt to conceptualize Wizard component\n- merge request Data Table upheaval (v3)\n- create WindowManager and hook into PowerTrack app\n",
+    "details": "- merge in jen and atilio's branches\n- clean up and push branch with smaller fixes and changes\n- refactor DataTable/DataTableController\n- work with Matt to conceptualize Wizard component\n- merge request Data Table upheaval (v3)\n- create WindowManager and hook into PowerTrack app\no ",
     "entry": "performed",
     "kind": "performed"
 }
