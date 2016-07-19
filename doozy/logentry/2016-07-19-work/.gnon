@@ -4,6 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-07-19",
-    "details": "- refactor $getFlex to flex\n- create notifications toaster",
-    "entry": "performed"
+    "details": "- refactor $getFlex to flex\n- create notifications toaster\n- cleanup global lib",
+    "entry": "performed",
+    "kind": "performed"
 }
