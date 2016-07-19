@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-07-18",
-    "details": "- merge in jen and atilio's branches\n- clean up and push branch with smaller fixes and changes\n- refactor DataTable/DataTableController\n- work with Matt to conceptualize Wizard component\n- merge request Data Table upheaval (v3)\n- append doc for import declarations codestyle\n- file expense report",
+    "details": "- merge in jen and atilio's branches\n- clean up and push branch with smaller fixes and changes\n- refactor DataTable/DataTableController\n- work with Matt to conceptualize Wizard component\n- merge request Data Table upheaval (v3)\n- append doc for import declarations codestyle\n",
     "entry": "performed",
     "kind": "performed"
 }
