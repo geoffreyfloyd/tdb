@@ -4,6 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-07-20",
-    "details": "- Movements: arm rolls, hangs, throws, overhand punches\n- Bicycle to work and home",
-    "entry": "performed"
+    "details": "- Movements: arm rolls, hangs, throws, overhand punches\n- Bicycle to work and home\n-",
+    "entry": "performed",
+    "kind": "performed"
 }
