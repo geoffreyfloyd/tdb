@@ -5,5 +5,6 @@
     "duration": 0,
     "date": "2016-07-27",
     "details": "- Bicycle to work and home",
-    "entry": "performed"
+    "entry": "performed",
+    "kind": "performed"
 }
