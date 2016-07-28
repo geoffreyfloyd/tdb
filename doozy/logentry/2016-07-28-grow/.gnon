@@ -5,5 +5,6 @@
     "duration": 0,
     "date": "2016-07-28",
     "details": "- Movements: arm rolls, throws, hangs, swings, overhand punches\n- Bicycle to work and home",
-    "entry": "performed"
+    "entry": "performed",
+    "kind": "performed"
 }
