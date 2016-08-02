@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-02",
-    "details": "- update eslint and refactor fixes\n- research and implement fix for vscode false errors\n- forms performance refactors",
+    "details": "- update eslint and refactor fixes\n- research and implement fix for vscode false errors\n- forms performance refactors\n- code review of ",
     "entry": "performed",
     "kind": "performed"
 }
