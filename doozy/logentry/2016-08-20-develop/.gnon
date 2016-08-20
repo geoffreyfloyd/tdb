@@ -4,6 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-20",
-    "details": "- remove GRAPHQL, fully embrace the REST api",
-    "entry": "performed"
+    "details": "- fix input table\n- remove GRAPHQL, fully embrace the REST api",
+    "entry": "performed",
+    "kind": "performed"
 }
