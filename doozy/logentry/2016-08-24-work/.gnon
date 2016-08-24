@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-24",
-    "details": "- add ability to mutate entire form state when an input value changes\n- form tabs w/ scrolling",
+    "details": "- add ability to mutate entire form state when an input value changes\n- work on form tabs w/ scrolling",
     "entry": "performed",
     "kind": "performed"
 }
