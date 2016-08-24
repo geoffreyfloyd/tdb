@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-24",
-    "details": "- add ability to mutate form state from an input properties",
+    "details": "- add ability to mutate form state when an input ",
     "entry": "performed",
     "kind": "performed"
 }
