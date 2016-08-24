@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-24",
-    "details": "- add ability to mutate model ",
+    "details": "- add ability to mutate model when input value changes",
     "entry": "performed",
     "kind": "performed"
 }
