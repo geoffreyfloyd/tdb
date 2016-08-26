@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-26",
-    "details": "- add record locking functionality",
+    "details": "- add record locking functionality\n- add ability to navigate to new tab",
     "entry": "performed",
     "kind": "performed"
 }
