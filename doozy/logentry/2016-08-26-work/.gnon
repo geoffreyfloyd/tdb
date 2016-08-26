@@ -4,6 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-26",
-    "details": "- ",
-    "entry": "performed"
+    "details": "- add record locking functionality",
+    "entry": "performed",
+    "kind": "performed"
 }
