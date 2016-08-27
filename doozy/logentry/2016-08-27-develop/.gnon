@@ -4,6 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-27",
-    "details": "- auto ",
-    "entry": "performed"
+    "details": "- auto refresh",
+    "entry": "performed",
+    "kind": "performed"
 }
