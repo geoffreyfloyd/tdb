@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-27",
-    "details": "- auto refresh",
+    "details": "- auto refresh when saving a new log",
     "entry": "performed",
     "kind": "performed"
 }
