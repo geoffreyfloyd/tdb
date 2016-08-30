@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-08-29",
-    "details": "- fix hamburger invisibility issue in Kiosk\n- finish up new tab feature\n- debug alert nodes returning empty datasets",
+    "details": "- finish up new tab feature\n- debug alert nodes returning empty datasets",
     "entry": "performed",
     "kind": "performed"
 }
