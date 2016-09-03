@@ -1,0 +1,10 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-07-19",
+    "details": "- refactor $getFlex to flex\n- create notifications toaster\n- rework window manager into WindowStack and refactor dialogs\n- refactor global lib and auto-set timezone cookies\n- fix issue with using prop type of 'any'\n================\nleaving off of Layouts to Flex project where it seems in SiteInfo i'm hitting an issue where i cannot deterministically get a component that grows and remembers an explicit height and width to play nicely with a flex container parent.",
+    "entry": "performed",
+    "kind": "performed"
+}

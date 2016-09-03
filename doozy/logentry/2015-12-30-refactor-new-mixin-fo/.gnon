@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 480,
+    "date": "2015-12-30T07:00:00.000Z",
+    "details": "Refactor new mixin for subscriptions.\nWrite basic test for every React component.\nUpdate Walkthru to include adding a test for components.",
+    "entry": "performed"
+}

@@ -1,0 +1,8 @@
+{
+    "date": "2015-01-10T02:46:12.733Z",
+    "entry": "performed",
+    "duration": 10,
+    "rootActionId": null,
+    "details": "BUG: New todos are not showing up in the Next Actions list until app is refreshed",
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
+}

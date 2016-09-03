@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 600,
+    "date": "2016-02-05T07:00:00.000Z",
+    "details": "Finish Form Undo functionality.\nAdd Form Field change visible indication. After i was able to digest Atilio's suggestions, i found that he was hinting at a much simpler solution than i had in my mind that does the job perfectly well.\nAdd browser history state that holds the view uri and context each time it changes.\nStub out config pipeline for customer and site.\nCreate a diagram to visualize the data flow of the Stores, Actions, and Dispatcher.\n",
+    "entry": "performed"
+}

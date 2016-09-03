@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 0,
+    "date": "2016-02-16T07:00:00.000Z",
+    "details": "Fix bug with InputTable field calculation for appended rows.\nRead up on Portable Class Libraries.\nModify Forms and Input API (formPath to fields).\n(Work on) Forms and Input API - Properties whitepaper.\nAnalyze Kiosk network traffic and start fixing issues with the entity-store and chart-store.",
+    "entry": "performed"
+}

@@ -1,0 +1,10 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 180,
+    "date": "2016-06-25",
+    "details": "- add ability to create new logs and actions\n- clean and centralize styles\n",
+    "entry": "performed",
+    "kind": "performed"
+}

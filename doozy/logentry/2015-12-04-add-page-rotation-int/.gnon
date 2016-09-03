@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 480,
+    "date": "2015-12-04T07:00:00.000Z",
+    "details": "Add page rotation interval to theme settings.\nAdd hook to set state of app in developer console.\nUpdate support docs for Kiosk to ref the ctrl+alt+shift+a Public Url.\nAdd carbon image.\nSet Env=Production in webpack deploy.\nChange minutes to seconds and allow multiple intervals, default 30 seconds.\nLogout and back in if dashkey exists: this requires an action filter.\nEvery one in a while it seems to hang for no reason in \"Initializing Data Stores\". We need to log communication from stores for debugging.",
+    "entry": "performed"
+}
