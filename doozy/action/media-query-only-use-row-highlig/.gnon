@@ -1,0 +1,13 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "Media Query: Only use row highlights on larger screens.",
+    "kind": "Action",
+    "duration": 0,
+    "nextDate": null,
+    "content": null,
+    "isPublic": false,
+    "created": "2015-05-11T11:35:06.270Z",
+    "isArchive": null,
+    "ordinal": null,
+    "projectStepId": null
+}

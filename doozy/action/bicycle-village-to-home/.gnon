@@ -1,0 +1,13 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "Bicycle: Village to Home",
+    "kind": "Action",
+    "duration": 25,
+    "nextDate": null,
+    "content": "5.8 miles",
+    "isPublic": false,
+    "created": "2015-06-19T03:26:24.643Z",
+    "isArchive": null,
+    "ordinal": null,
+    "projectStepId": null
+}

@@ -1,0 +1,16 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "Run",
+    "kind": "Action",
+    "duration": 30,
+    "nextDate": "2015-09-26T06:00:00.000Z",
+    "content": null,
+    "isPublic": true,
+    "created": "2015-05-06T17:02:58.910Z",
+    "isArchive": null,
+    "ordinal": null,
+    "projectStepId": null,
+    "recurrenceRules": [
+        "RRULE:FREQ=WEEKLY;BYDAY=SA"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "TXT Parsing",
+    "kind": "Step",
+    "created": "2015-06-01T15:52:34.280Z",
+    "duration": null,
+    "status": "Todo",
+    "tagName": null,
+    "content": "plz,wot,u-you,y-why,n-and\\in.imo,imho,brb,omg,omfg,wtf,afaik,eob,cob,jk, lol=haha,lmao=hahaha, lmfao=Hahahaha.",
+    "ordinal": 2,
+    "id": "txt-parsing",
+    "planId": "babble",
+    "parentId": "comprehend-and-translate-between",
+    "durationInput": {
+        "value": null,
+        "milliseconds": null,
+        "seconds": 0,
+        "minutes": 0,
+        "hours": 0,
+        "days": 0,
+        "years": 0
+    }
+}

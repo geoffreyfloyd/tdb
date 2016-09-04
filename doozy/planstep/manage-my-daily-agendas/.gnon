@@ -1,0 +1,11 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "Manage my daily agendas",
+    "kind": "Step",
+    "created": "2015-06-01T15:21:32.646Z",
+    "duration": 7200,
+    "status": "Todo",
+    "tagName": null,
+    "content": null,
+    "ordinal": 7
+}

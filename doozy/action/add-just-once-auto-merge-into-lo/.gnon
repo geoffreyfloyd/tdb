@@ -1,0 +1,12 @@
+{
+    "kind": "Action",
+    "name": "ADD: 'Just once' auto-merge into log entry",
+    "created": "2016-01-18T03:28:53.194Z",
+    "duration": 0,
+    "content": "When 'Only once' is selected, flag for automatic merge into the log entry once it has been logged, including all connected nodes. Add new option (Once in a blue moon) that will not flag for auto merging.",
+    "nextDate": null,
+    "isPublic": false,
+    "recurrenceRules": [],
+    "items": [],
+    "ordinal": null
+}

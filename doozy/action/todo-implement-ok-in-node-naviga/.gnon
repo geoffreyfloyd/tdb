@@ -1,0 +1,13 @@
+{
+    "kind": "Action",
+    "name": "TODO: Implement OK in Node Navigator",
+    "created": "2016-02-23T16:52:35.039Z",
+    "duration": 0,
+    "content": "ALSO, figure out why GetAllFavorites() doesn't work",
+    "beginDate": null,
+    "nextDate": null,
+    "isPublic": false,
+    "recurrenceRules": [],
+    "items": [],
+    "ordinal": null
+}

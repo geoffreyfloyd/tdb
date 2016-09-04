@@ -1,0 +1,13 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "[02] ADD: Count of active actions in Focus list",
+    "kind": "Action",
+    "duration": 30,
+    "nextDate": null,
+    "content": "",
+    "isPublic": false,
+    "created": "2015-02-01T01:36:10.346Z",
+    "isArchive": null,
+    "ordinal": null,
+    "projectStepId": null
+}

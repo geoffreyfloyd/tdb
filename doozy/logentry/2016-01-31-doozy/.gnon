@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 180,
+    "date": "2016-01-31T07:00:00.000Z",
+    "details": "remove redundant data from file contents, load info from existence of the file itself. I am doing this, in part, because the file system should remain as easy to reason about as possible. ",
+    "entry": "performed"
+}

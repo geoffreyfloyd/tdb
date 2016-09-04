@@ -1,0 +1,13 @@
+{
+    "kind": "Action",
+    "name": "BUG: Kiosk Nav Timer Hop",
+    "created": "2016-04-07T22:32:54.962Z",
+    "duration": 0,
+    "content": "Hops over to 3rd from 1st when clicking back on 1st after allowing it to go to 2nd",
+    "beginDate": null,
+    "nextDate": null,
+    "isPublic": false,
+    "recurrenceRules": [],
+    "items": [],
+    "ordinal": null
+}

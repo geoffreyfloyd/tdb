@@ -1,0 +1,13 @@
+{
+    "kind": "Action",
+    "name": "REVIEW: Browser History Integration",
+    "created": "2016-04-01T13:09:34.209Z",
+    "duration": 0,
+    "content": "What context should update the browser history in-place, and what context should add a new browser history entry? The solution needs to clearly define and separate this.",
+    "beginDate": null,
+    "nextDate": null,
+    "isPublic": false,
+    "recurrenceRules": [],
+    "items": [],
+    "ordinal": null
+}

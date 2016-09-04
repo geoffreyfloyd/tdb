@@ -1,0 +1,11 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "Add a focus",
+    "kind": "Step",
+    "created": "2015-05-30T17:18:39.353Z",
+    "duration": null,
+    "status": "Done",
+    "tagName": null,
+    "content": "As a user, i'd like to separate my plans and todos into categories representing the areas of my life that are most important to me, so that i can focus on one aspect at a time and see how i'm progressing in each area.",
+    "ordinal": 1
+}

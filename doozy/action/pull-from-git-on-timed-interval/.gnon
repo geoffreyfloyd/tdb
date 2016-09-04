@@ -1,0 +1,13 @@
+{
+    "kind": "Action",
+    "name": "Pull from git on timed interval",
+    "created": "2016-03-29T03:03:26.626Z",
+    "duration": 0,
+    "content": "in case any other devices have pushed commits. also need to update the gnodes db",
+    "beginDate": null,
+    "nextDate": null,
+    "isPublic": false,
+    "recurrenceRules": [],
+    "items": [],
+    "ordinal": null
+}

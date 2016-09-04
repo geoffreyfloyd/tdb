@@ -1,0 +1,16 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "Connect with James Phillips",
+    "kind": "Action",
+    "duration": 15,
+    "nextDate": null,
+    "content": null,
+    "isPublic": false,
+    "created": "2015-04-19T15:46:45.883Z",
+    "isArchive": null,
+    "ordinal": null,
+    "projectStepId": null,
+    "recurrenceRules": [
+        "RRULE:FREQ=MONTHLY"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "[04] ADD: Ability to manage and share Lists",
+    "kind": "Action",
+    "duration": 240,
+    "nextDate": null,
+    "content": "Lists: Life-Changing Books, Favorite Movies, Favorite Quotes, etc.",
+    "isPublic": false,
+    "created": "2015-03-17T19:43:21.676Z",
+    "isArchive": null,
+    "ordinal": null,
+    "projectStepId": null
+}

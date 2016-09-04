@@ -1,0 +1,16 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "Yoga",
+    "kind": "Action",
+    "duration": 60,
+    "nextDate": null,
+    "content": "",
+    "isPublic": true,
+    "created": "2015-03-01T23:27:09.033Z",
+    "isArchive": null,
+    "ordinal": null,
+    "projectStepId": null,
+    "recurrenceRules": [
+        "RRULE:FREQ=WEEKLY;BYDAY=SU"
+    ]
+}

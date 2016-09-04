@@ -1,0 +1,13 @@
+{
+    "kind": "Action",
+    "name": "IDEA: Combine touch and talk.",
+    "created": "2016-02-23T19:35:30.536Z",
+    "duration": 0,
+    "content": "Start thinking of machine interaction as a face-to-face conversation. Combine touch location to find input target area of voice. Bubble up through the UI hierarchy based on Touch Cursor location until a component accepts voice input as an InputArg. When multiple options exist, this InputComponent is really just voting (hey, i think you want me!), and based on possible other factors (such as the LIKENESS of the data to what it expects) and possibly what the user was last doing (or any other # of context clues).\n\nAlso think about touch-types, such as a full hand swipe vs moving a single digit across the plane. (i'd like to be able to pull Doozy to a small overhang portion of the right hand side of the screen by doing a full hand swipe from the outside-to-in.",
+    "beginDate": null,
+    "nextDate": null,
+    "isPublic": false,
+    "recurrenceRules": [],
+    "items": [],
+    "ordinal": null
+}

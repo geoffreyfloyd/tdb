@@ -1,0 +1,13 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "Study: Levenshtein Distance",
+    "kind": "Action",
+    "duration": 0,
+    "nextDate": null,
+    "content": "http://en.wikipedia.org/wiki/Levenshtein_distance\nhttps://github.com/bevacqua/fuzzysearch",
+    "isPublic": false,
+    "created": "2015-05-08T13:02:38.046Z",
+    "isArchive": null,
+    "ordinal": null,
+    "projectStepId": null
+}

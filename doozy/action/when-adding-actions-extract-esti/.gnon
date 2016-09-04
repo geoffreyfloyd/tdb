@@ -1,0 +1,13 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "When adding actions, extract estimated duration from name if in #h#m or #h or #m format",
+    "kind": "Action",
+    "duration": 0,
+    "nextDate": null,
+    "content": "",
+    "isPublic": false,
+    "created": "2015-01-08T03:31:28.413Z",
+    "isArchive": null,
+    "ordinal": null,
+    "projectStepId": null
+}

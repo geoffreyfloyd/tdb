@@ -1,0 +1,16 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "Warm up run, movements, and stretches",
+    "kind": "Action",
+    "duration": 10,
+    "nextDate": "2015-09-30T12:00:00.000Z",
+    "content": "Shadow boxing, knee highs, ass kickers, leg kicks, side bends, quadipedal stretch, side bends, hip stretches. Also, Explosive movements, like punches (shadow boxing) and jumps,",
+    "isPublic": false,
+    "created": "2015-02-24T18:16:11.970Z",
+    "isArchive": null,
+    "ordinal": null,
+    "projectStepId": null,
+    "recurrenceRules": [
+        "RRULE:FREQ=DAILY"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "kind": "Action",
+    "name": "DESIGN: Store-Model-Store Conventions",
+    "created": "2016-04-07T22:40:22.920Z",
+    "duration": 0,
+    "content": "Let it get messy for a while first, let's see what use cases we run into, then we'll refactor it into a more abstract, conventional and unified solution.\n\nSPARK - ME to ATILIO: Actually, know what, for the sake of comparisons, and because i know it will irritate me until i make the time to discuss and design an updated convention with how we handle models, and what stores on the client vs server side should be responsible for, go ahead and keep this one as is",
+    "beginDate": null,
+    "nextDate": null,
+    "isPublic": false,
+    "recurrenceRules": [],
+    "items": [],
+    "ordinal": null
+}

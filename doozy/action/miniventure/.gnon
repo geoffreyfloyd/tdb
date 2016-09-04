@@ -1,0 +1,13 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "Miniventure",
+    "kind": "Action",
+    "duration": 11520,
+    "nextDate": null,
+    "content": null,
+    "isPublic": false,
+    "created": "2015-06-20T16:09:54.550Z",
+    "isArchive": null,
+    "ordinal": null,
+    "projectStepId": null
+}

@@ -1,0 +1,13 @@
+{
+    "kind": "Action",
+    "name": "REVIEW: Flux Actions (Redux)",
+    "created": "2016-04-13T20:50:22.267Z",
+    "duration": 0,
+    "content": "If we don't import a store, the action handlers never get registered. We may need to revisit where we store our actions.\nStudy redux, and minidux",
+    "beginDate": null,
+    "nextDate": null,
+    "isPublic": false,
+    "recurrenceRules": [],
+    "items": [],
+    "ordinal": null
+}

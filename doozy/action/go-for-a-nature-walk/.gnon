@@ -1,0 +1,13 @@
+{
+    "userId": "aee5e6a4-120a-4173-92b0-6782a85fedef",
+    "name": "Go for a nature walk",
+    "kind": "Action",
+    "duration": 60,
+    "nextDate": null,
+    "content": "",
+    "isPublic": false,
+    "created": "2015-02-22T23:05:56.650Z",
+    "isArchive": null,
+    "ordinal": null,
+    "projectStepId": null
+}

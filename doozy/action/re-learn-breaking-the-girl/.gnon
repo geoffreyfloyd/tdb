@@ -1,0 +1,17 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "Re-Learn \"Breaking the Girl\"",
+    "kind": "Action",
+    "duration": 10,
+    "nextDate": null,
+    "content": "",
+    "isPublic": false,
+    "created": "2015-02-05T01:33:22.626Z",
+    "isArchive": null,
+    "ordinal": null,
+    "projectStepId": null,
+    "recurrenceRules": [
+        "RRULE:FREQ=WEEKLY;BYDAY=SA"
+    ],
+    "beginDate": null
+}

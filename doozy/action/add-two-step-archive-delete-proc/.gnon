@@ -1,0 +1,13 @@
+{
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1",
+    "name": "Add two-step Archive/Delete process (too easy to ruin log history)",
+    "kind": "Action",
+    "duration": 0,
+    "nextDate": null,
+    "content": null,
+    "isPublic": false,
+    "created": "2015-05-06T17:07:35.160Z",
+    "isArchive": null,
+    "ordinal": null,
+    "projectStepId": null
+}

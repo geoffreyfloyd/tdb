@@ -1,0 +1,13 @@
+{
+    "kind": "Action",
+    "name": "IDEAS: Operator Log to Cmd (and more)",
+    "created": "2016-04-12T01:35:07.306Z",
+    "duration": 0,
+    "content": "- replace all console logs with operator log and be able to view the entire log on request\n- gnode api should provide a default UI that allows editing any gnode at it's most basic level, scaffolding objects.",
+    "beginDate": null,
+    "nextDate": null,
+    "isPublic": false,
+    "recurrenceRules": [],
+    "items": [],
+    "ordinal": null
+}

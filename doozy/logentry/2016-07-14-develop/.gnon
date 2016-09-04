@@ -1,0 +1,10 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-07-14",
+    "details": "- recall context of focus\n- set min height of new log to allow click access\n- auto tag the Unsaved new log entry as the current focus\n- modify log entry to name tag by focus\n- fix tag filter selection in logs view\no use sub-focus tag in New Log",
+    "entry": "performed",
+    "kind": "performed"
+}

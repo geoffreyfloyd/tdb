@@ -1,0 +1,12 @@
+{
+    "kind": "Action",
+    "name": "BUG: Adding or Removing from InputTable collection does not trigger onChange",
+    "created": "2016-02-01T23:46:44.560Z",
+    "duration": 0,
+    "content": null,
+    "nextDate": null,
+    "isPublic": false,
+    "recurrenceRules": [],
+    "items": [],
+    "ordinal": null
+}

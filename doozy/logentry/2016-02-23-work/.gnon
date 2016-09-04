@@ -1,0 +1,8 @@
+{
+    "rootActionId": null,
+    "duration": 0,
+    "date": "2016-02-23",
+    "details": "- Changes to NodePickerInput feature branch during merge request code review.\n- Extend Node store support for lists of template types (ie. query).\nAdd context kinds to NodeNavigator (for customer, site, and favorite node navigation).\nUpdate core lib source and fix favorites navigation.\n",
+    "entry": "performed",
+    "kind": "performed"
+}

@@ -1,0 +1,12 @@
+{
+    "kind": "Action",
+    "name": "BUG: action.nextDate is not being recalculated when performed",
+    "created": "2016-01-18T03:24:04.427Z",
+    "duration": 0,
+    "content": "http://localhost:8080/doozy/logentry/new/water-plants",
+    "nextDate": null,
+    "isPublic": false,
+    "recurrenceRules": [],
+    "items": [],
+    "ordinal": null
+}

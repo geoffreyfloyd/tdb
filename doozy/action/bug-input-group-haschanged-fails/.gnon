@@ -1,0 +1,12 @@
+{
+    "kind": "Action",
+    "name": "BUG: Input group hasChanged fails except in the last input group in the input form",
+    "created": "2016-02-03T06:05:58.517Z",
+    "duration": 0,
+    "content": null,
+    "nextDate": null,
+    "isPublic": false,
+    "recurrenceRules": [],
+    "items": [],
+    "ordinal": null
+}
