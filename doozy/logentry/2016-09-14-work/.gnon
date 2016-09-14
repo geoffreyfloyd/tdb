@@ -4,6 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-09-14",
-    "details": "- fix utc date issue on Charts date title",
-    "entry": "performed"
+    "details": "- clean up \n- fix utc date issue on Charts date title\n- push to preview and test Kiosks",
+    "entry": "performed",
+    "kind": "performed"
 }
