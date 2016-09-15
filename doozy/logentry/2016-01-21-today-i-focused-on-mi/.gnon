@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 600,
+    "date": "2016-01-21T07:00:00.000Z",
+    "details": "Focused on migrating from svn to git. I used a powershell script from ProGit that Jason Boyd had conveniently available on github that worked great, keeping our history in place. After the migration, it was found that AssemblyInfo.cs was using some special svn dependent process to set the version to the svn revision number. And the sky fell.;)",
+    "entry": "performed"
+}

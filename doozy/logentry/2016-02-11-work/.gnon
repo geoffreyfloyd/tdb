@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 600,
+    "date": "2016-02-11T07:00:00.000Z",
+    "details": "Fix longstanding issue that occurs when switching between a dashkey auth and forms auth without doing a full log out.\nAdd Homes and Natural Gas environmentals and refactor the component to simplify code.\nAdd support for up to three gauges, choosing between \"ProductionNow\", \"ProductionThisMonth\", \"ProductionThisYear\", and \"LifetimeProduction\".\nMake the weather report component an option instead of mandatory.\nChange Pages and Slots from strings to string arrays.\nUpdate Kiosk support documentation to reflect expanded options in customizing a kiosk display.\nTest changes and push to preview AND production, because it coincides with a required data change in the settings.\nEdit and save kiosk settings update for all known sites running the react kiosk.",
+    "entry": "performed"
+}

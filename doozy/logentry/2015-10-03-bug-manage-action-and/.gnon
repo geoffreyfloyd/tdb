@@ -1,0 +1,8 @@
+{
+    "date": "2015-10-03T06:00:00.000Z",
+    "entry": "performed",
+    "duration": 30,
+    "rootActionId": null,
+    "details": "BUG: Manage action and plan step forms reset while typing in them if that entity type gets an update\n\nThis is because the prop is entire action object instead of just an actionId",
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
+}

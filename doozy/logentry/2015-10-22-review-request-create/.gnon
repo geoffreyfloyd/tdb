@@ -1,0 +1,8 @@
+{
+    "date": "2015-10-22T06:00:00.000Z",
+    "entry": "performed",
+    "duration": 0,
+    "rootActionId": null,
+    "details": "Review Request.CreateContext (doesn't seem that new SessionContext() does all it needs to, things are left blank)",
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
+}
