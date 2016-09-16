@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-09-16",
-    "details": "- change entity-store request method to a promise",
+    "details": "- refactor entity-store request method from a callback to a promise",
     "entry": "performed",
     "kind": "performed"
 }
