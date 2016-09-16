@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-09-16",
-    "details": "- Refactor entity-store request method from a callback to a promise\no Publish master to Production to resolve Kiosk Custom Date request and the ",
+    "details": "- Refactor entity-store request method from a callback to a promise\no Publish master to Production to resolve Kiosk Custom Date request and the Chart UTC problem",
     "entry": "performed",
     "kind": "performed"
 }
