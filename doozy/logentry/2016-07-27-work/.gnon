@@ -1,0 +1,10 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-07-27",
+    "details": "- troubleshoot chart nav oddities (still inconclusive)\n- write brief layout strategies doc\n- minor refactoring, code cleanup, git history cleanup\n- modify test config to reduce noise\n- change localforage ref to src path to prevent warning (keep an eye out for caching issues)\n- move enum-to-js building from webpack build to server post build event",
+    "entry": "performed",
+    "kind": "performed"
+}

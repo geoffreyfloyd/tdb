@@ -1,0 +1,8 @@
+{
+    "date": "2015-01-09T03:42:22.743Z",
+    "entry": "performed",
+    "duration": 5,
+    "rootActionId": null,
+    "details": "BUG: Duration for new actions is saved as null",
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
+}

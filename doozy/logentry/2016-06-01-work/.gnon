@@ -1,0 +1,9 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-06-01",
+    "details": "- add iPods to Environmentals\n- Format Environmental values as integers\n- push to Preview and test\n- Tag release\n- Set Southern Cayuga CSD methane to ipods\n- Push to Production and Validate",
+    "entry": "performed"
+}

@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 0,
+    "date": "2016-03-09T07:00:00.000Z",
+    "details": "-update react to v14\n  update react-dom-layout to v14\n  replace getDOMNode() w ReactDOM.findDOMNode()\n-handle bad request",
+    "entry": "performed"
+}

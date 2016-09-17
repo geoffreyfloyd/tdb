@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 720,
+    "date": "2016-01-18T07:00:00.000Z",
+    "details": "- significant refactoring of the stores (first phase)\n- node store and node navigator development",
+    "entry": "performed"
+}

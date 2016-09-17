@@ -1,0 +1,9 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-07-20",
+    "details": "- write Wizard and WizardPane base code to help Matt along =20min\n- fix issues with watchDom and test new solution on all browsers =6hrs\n- fixes in response to Atilio's code review of windowstacks branch =10min\n- do code review for Atilio's merge request of add-query branch =10min",
+    "entry": "performed"
+}

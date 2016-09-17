@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 480,
+    "date": "2016-02-02T07:00:00.000Z",
+    "details": "Fix bug with entity-store not properly binding the callback when subscribing to the timer store for polling.\nFix issue: adding or removing from InputTable collection does not trigger revalidation.\nFind a suitable stepping point task, fill in helpful details and notes, and hand the task to Katie.\nWrite a git workflow guide and one-page quick-ref sheet.\nAdd form binding value comparison change detection.\n",
+    "entry": "performed"
+}

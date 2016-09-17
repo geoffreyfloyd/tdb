@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 0,
+    "date": "2016-03-29T06:00:00.000Z",
+    "details": "-Resolve a couple bugs in production, release and tag v0.3.1\n-Work on Portfolio\n-Assist implementation of Elmah logging to virtual dir: test, modify config, and then add 404 exception filtering\n-update publish profiles to filter out files that should not be deployed\n",
+    "entry": "performed"
+}

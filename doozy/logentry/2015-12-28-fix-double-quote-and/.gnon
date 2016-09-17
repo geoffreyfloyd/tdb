@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 480,
+    "date": "2015-12-28T07:00:00.000Z",
+    "details": "Fix double quote and backslash bug in dynamic image page.\nFix negative charting issue.\nFix bug in OutputCacheWebApi when params contain a colon char.\nWrite up a walkthru for creating a web component.",
+    "entry": "performed"
+}
