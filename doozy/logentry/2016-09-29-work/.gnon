@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-09-29",
-    "details": "- merge in expand-download\n- review and merge Brian's fixing-stuff \no add icons for Node Kind/Templates: Logo, ThemeTemplate\no Hardware Config discussion",
+    "details": "- merge in expand-download\n- review and merge Brian's fixing-stuff branch\n- clean up commit \no add icons for Node Kind/Templates: Logo, ThemeTemplate\no Hardware Config discussion",
     "entry": "performed",
     "kind": "performed"
 }
