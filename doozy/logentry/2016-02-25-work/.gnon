@@ -1,0 +1,8 @@
+{
+    "rootActionId": null,
+    "duration": 0,
+    "date": "2016-02-25",
+    "details": "- Chart API Charts View null response\n- Code Review\n- Benjer NRELAuto support\n- Fix roles bug that occurs for any resource that relies on a specific role being present\nImplement quick links into launch utility bar.-\n",
+    "entry": "performed",
+    "kind": "performed"
+}

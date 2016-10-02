@@ -1,0 +1,9 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-06-20",
+    "details": "- Remove OK and Alert options from Resource Navigator Form\n- Update Deployment status cell to use the old icons\n- Start work on Alert Detail (pie status timeline by duration)",
+    "entry": "performed"
+}

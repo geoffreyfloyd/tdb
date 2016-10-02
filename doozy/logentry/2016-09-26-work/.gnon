@@ -1,0 +1,9 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-09-26",
+    "details": "- Fix style issues in ReportEdit view\n  - NodePickerInput button hides when control has focus\n- Replace use of Wizard with more generic FormTabs component and remove Wizard component\no FormSection lays out weird if title prop is not set",
+    "entry": "performed"
+}

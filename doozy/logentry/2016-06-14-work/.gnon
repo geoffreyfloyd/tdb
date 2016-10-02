@@ -1,0 +1,10 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-06-14",
+    "details": "- Troubleshoot GetTreeNodes issues\n- Add Browser Offset to AlertHistory request object to get proper range\n- Resolve DateRangeBar issue with entering a date in browsers that do not provide a date picker\n- Start building AlertTimelineChart\n========================\n## DISCUSS\n - add deployment status to portfolio view\n - Site Setup status, deployment status, approval.. Let's pick a term and be consistent. We need to keep picking away at these inconsistent terms and conventions to reduce confusion in our codebase and UI. Every concept should ideally have no more than 1 internal name and one external name (or a customizable external name that is explicitly unreliable as a common language)",
+    "entry": "performed",
+    "kind": "performed"
+}

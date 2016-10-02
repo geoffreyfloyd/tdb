@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 720,
+    "date": "2016-01-29T07:00:00.000Z",
+    "details": "Today i focused on getting a working Popup Dialog Form Solution that can be used in an Collections-based Form and properly merged with the data in the Collections-based form. Among this a lot of small refactors and developments were completed as well.",
+    "entry": "performed"
+}

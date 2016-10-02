@@ -1,0 +1,8 @@
+{
+    "date": "2015-03-13T04:00:00.000Z",
+    "entry": "performed",
+    "duration": 20,
+    "rootActionId": null,
+    "details": "MOD: Restrict Components in Mandatory Facilities\n\nOnly ContractComponents that are set OnFacility. Also, sort by Code",
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
+}
