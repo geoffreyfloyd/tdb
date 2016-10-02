@@ -1,8 +1,0 @@
-{
-    "date": "2016-01-13T07:00:00.000Z",
-    "duration": 120,
-    "entry": "performed",
-    "details": "save a log entry",
-    "rootActionId": null,
-    "kind": "performed"
-}

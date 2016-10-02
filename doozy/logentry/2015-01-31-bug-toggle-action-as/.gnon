@@ -1,8 +1,0 @@
-{
-    "date": "2015-01-31T01:39:06.843Z",
-    "entry": "performed",
-    "duration": 60,
-    "rootActionId": null,
-    "details": "BUG: Toggle Action as completed does not display in UI until app refresh",
-    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
-}

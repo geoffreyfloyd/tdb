@@ -1,8 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 0,
-    "date": "2016-02-19",
-    "details": "- Support Kiosk (4K monitor zoom issue).\nAdd tests for EntityStore to TimerStore integration.",
-    "entry": "performed",
-    "kind": "performed"
-}

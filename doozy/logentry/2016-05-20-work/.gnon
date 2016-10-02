@@ -1,9 +1,0 @@
-{
-    "actionId": null,
-    "rootActionId": null,
-    "actionName": "",
-    "duration": 0,
-    "date": "2016-05-20",
-    "details": "- link portfolio site name cells to site info view\n- add flow type syntax loaders for dev runtime assertions\n- build config mods\n  - use flow type checking in dev runtime\n  - do not use asp.net to minify the scripts\n  - use UglifyJS to minify and remove dead code\n- reworking forms solution",
-    "entry": "performed"
-}

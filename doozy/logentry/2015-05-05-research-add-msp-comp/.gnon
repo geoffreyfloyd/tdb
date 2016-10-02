@@ -1,8 +1,0 @@
-{
-    "date": "2015-05-05T04:00:00.000Z",
-    "entry": "performed",
-    "duration": 60,
-    "rootActionId": null,
-    "details": "Research Add MSP Component Issue\n\nThe MSP component that was not showing up was due to the MSPDetails.Element field (denormalized field) not matching the MSPActivities.OtherCode field. Ran an update statement to fix this one. Found that over 500 records out out of 9000 records have a similar data issue. Notified Kasia, however, I am unsure if she will address the data issue.",
-    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
-}

@@ -1,8 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 180,
-    "date": "2016-01-14",
-    "details": "fix various form bugs involving logging actions and log entries",
-    "entry": "performed",
-    "kind": "performed"
-}
