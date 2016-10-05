@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-10-04",
-    "details": "- continued work on the Notes UI\n- fix \n- fix OutputCacheWebApi issue with cacheKey race condition that occurs when synchronous requests are made to the same controller api action",
+    "details": "- continued work on the Notes UI\n- fix Carrier list to include Undefined\n- fix OutputCacheWebApi issue with cacheKey race condition that occurs when synchronous requests are made to the same controller api action, which was ",
     "entry": "performed",
     "kind": "performed"
 }
