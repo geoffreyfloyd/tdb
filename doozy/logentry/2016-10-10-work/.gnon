@@ -4,6 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-10-10",
-    "details": "Attributes and Keywords",
-    "entry": "performed"
+    "details": "Attributes and Keywords\no Use Action system to have Tag store update itself",
+    "entry": "performed",
+    "kind": "performed"
 }
