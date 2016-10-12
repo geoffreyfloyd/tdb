@@ -4,6 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-10-12",
-    "details": "Attributes and Keywords\no Use Action system to have Tag store update itself when a note, keyword, or attribute is deleted",
-    "entry": "performed"
+    "details": "Attributes and Keywords\no Resolve lastChanged issues to ensure two users don't step on eachothers changes",
+    "entry": "performed",
+    "kind": "performed"
 }
