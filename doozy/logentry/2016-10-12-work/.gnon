@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-10-12",
-    "details": "Attributes and Keywords\no Resolve lastChanged issues to ensure two users don't step on eachothers changes",
+    "details": "Attributes and Keywords\no Resolve lastChanged issues with Tags to ensure two users don't step on eachother's changes",
     "entry": "performed",
     "kind": "performed"
 }
