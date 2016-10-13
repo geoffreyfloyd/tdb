@@ -3,8 +3,8 @@
     "rootActionId": null,
     "actionName": "",
     "duration": 0,
-    "date": "2016-10-12",
-    "details": "- Resolve lastChanged issues with Tags to ensure two users don't step on eachother's changes",
+    "date": "2016-10-10",
+    "details": "- Use Action system to have Tag store update itself when a note, keyword, or attribute is deleted",
     "entry": "performed",
     "kind": "performed"
 }
