@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 0,
-    "date": "2016-02-10T07:00:00.000Z",
-    "details": "Fix Site Hardware and Fields assembly logic.\nTighten up and comment Forms API.\nHad a nice talk with Holden to touch base and make sure the way i was managing my in-office time vs my home-office time was acceptable, and he didn't see any issues with it.\nImplement web exception error logging module to prevent w3wc.exe crash that occurs when on unhandled ASP.NET exceptions with a secured Admin eyes only log viewing page built in.",
-    "entry": "performed"
-}

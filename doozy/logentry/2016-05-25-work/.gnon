@@ -1,9 +1,0 @@
-{
-    "actionId": null,
-    "rootActionId": null,
-    "actionName": "",
-    "duration": 0,
-    "date": "2016-05-25",
-    "details": "// changes focused on naming, consistency, and easily-inferred meanings / intuitive api\n- refactor inputgroup to be a form relay and use InputWrapper prop\n- refactor calc callbacks (items, readOnly, visible, etc) to include values array of dependencies\n- getNewRow promise and new getNewDataItem on server\n- form-level validation\n- extract can use {} notation to grab the first match, and getInputRowProps sets it there\n- do not request site hardware when siteKey is null\n- default site key in query config data item based on latest available sitekey in data items\n- support global form dependency (*)\n- do not cache config models",
-    "entry": "performed"
-}

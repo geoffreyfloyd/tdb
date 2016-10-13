@@ -1,9 +1,0 @@
-{
-    "actionId": null,
-    "rootActionId": null,
-    "actionName": "",
-    "duration": 0,
-    "date": "2016-05-26",
-    "details": "- write tests for object-utils\n- clean up commit history\n- fix drop target bug\n- fix image input bugs: logo model key was int, and image input does not set the key in the model\n- fix customer and hardware model id to key\n- fix issue with half the requests with a shared context going unanswered by slicing the consumers array into a new array to ensure everyone gets notified in case they respond by unsubscribing\n- update corelibs to fix issue in servletlib with queries using lifetime spans and not having the date trimmed\nto the earliest data point",
-    "entry": "performed"
-}

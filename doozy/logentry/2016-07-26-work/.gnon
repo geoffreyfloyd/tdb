@@ -1,9 +1,0 @@
-{
-    "actionId": null,
-    "rootActionId": null,
-    "actionName": "",
-    "duration": 0,
-    "date": "2016-07-26",
-    "details": "- refactor DateRangeBar and Chart",
-    "entry": "performed"
-}

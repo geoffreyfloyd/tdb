@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 0,
-    "date": "2016-04-07T06:00:00.000Z",
-    "details": "- fix unsubscribe timer leak and add another entity store test\n- refactor cache/entity concerns (cachestore should not be concerned with the shape of the entity store's cache)\n- refactor entity/inherited concern: processing specific to chart store existed in entity store\n- set last checked and use last checked date when available in default isCacheValid\n- store entities in object keys instead of array for simpler retrieval\n- version-sync client stores with server stores to reject old cache that could break the app instead of passing it through\n- fix timer store feature: reset-timer-on-user-input\n- extend those to convert an object to an array",
-    "entry": "performed"
-}

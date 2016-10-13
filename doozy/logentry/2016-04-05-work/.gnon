@@ -1,7 +1,0 @@
-{
-    "rootActionId": null,
-    "duration": 0,
-    "date": "2016-04-05T06:00:00.000Z",
-    "details": "-cleanup portfolio history\n-extract unrelated changes and apply in master\n-begin es6ifying all the things",
-    "entry": "performed"
-}

@@ -1,9 +1,0 @@
-{
-    "actionId": null,
-    "rootActionId": null,
-    "actionName": "",
-    "duration": 0,
-    "date": "2016-08-22",
-    "details": "- add server side controller actions for getting user permissions and integrate into views logic\n- minor fixes and refactors\n- work on expanding site edit",
-    "entry": "performed"
-}

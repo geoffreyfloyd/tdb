@@ -1,9 +1,0 @@
-{
-    "actionId": null,
-    "rootActionId": null,
-    "actionName": "",
-    "duration": 0,
-    "date": "2016-06-02",
-    "details": "- add Deployment Status to Portfolio page\n- invalidate entity store resources",
-    "entry": "performed"
-}
