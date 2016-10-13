@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-10-13",
-    "details": "- refactor cache-store and entity-store for fixes and improvements\n- dev: tags solution \n- dev: add login to ContextBar",
+    "details": "- refactor cache-store and entity-store for fixes and improvements\n- dev: tags solution ~1hr\n- dev: add login to ContextBar ",
     "entry": "performed",
     "kind": "performed"
 }
