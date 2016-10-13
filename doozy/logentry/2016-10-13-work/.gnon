@@ -4,6 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-10-13",
-    "details": "- refactor cache-store and entity-store for fixes and improvements",
-    "entry": "performed"
+    "details": "- refactor cache-store and entity-store for fixes and improvements\n- ",
+    "entry": "performed",
+    "kind": "performed"
 }
