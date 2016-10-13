@@ -1,0 +1,8 @@
+{
+    "date": "2015-05-26T04:00:00.000Z",
+    "entry": "performed",
+    "duration": 10,
+    "rootActionId": null,
+    "details": "F0083525: Exam Accounting Excludes CHS Facility\n\nPreviously modified the Recordsource for last week's build, however, no one verified this fix, and it turns out that there is code that dynamically sets the recordsource.",
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
+}

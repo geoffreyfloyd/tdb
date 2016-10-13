@@ -1,0 +1,8 @@
+{
+    "date": "2015-04-22T04:00:00.000Z",
+    "entry": "performed",
+    "duration": 240,
+    "rootActionId": null,
+    "details": "Action Timer and New Action Logger\n\nBuild a list of details while performing an action, ie. each set of a workout, each song you practice, each meal you ate. Quick build a template log table, add columns with special types",
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
+}

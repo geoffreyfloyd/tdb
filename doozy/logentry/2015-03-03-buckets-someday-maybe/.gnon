@@ -1,0 +1,8 @@
+{
+    "date": "2015-03-03T05:00:00.000Z",
+    "entry": "performed",
+    "duration": 60,
+    "rootActionId": null,
+    "details": "Buckets: Someday/Maybe is a bucket, allow custom buckets (ie.Release 1, Release 2, etc)\n\nBuckets could be a type of tag. Maybe call it Boxes instead, then have a  Box It command for Actions that have been in the Next Actions 'workspace' too long",
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
+}

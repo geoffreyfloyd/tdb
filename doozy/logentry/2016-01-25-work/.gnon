@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 480,
+    "date": "2016-01-25T07:00:00.000Z",
+    "details": "- Spent time reading code libs to understand how treenode favorites work in order to implement it in SessionHelper. After discussing at meeting, Jen took responsibility for implementing this in SessionHelper.<br>- Implement dispatcher actions (driven by use case for adding/removing favorites) and have the stores register with the dispatcher to handle the actions they are responsible for along with dependencies to other stores.<br>- Add user store to get user info, including the user's list of favorites; waiting on Jen to plug in to the main pipeline to be able to actually update and obtain the list of favorites.<br>- Got held up with a weird issue with IconButton automatically hiding itself whenever the state changed. After some unsuccessful troubleshooting, just switched to using Button for now, but it's something about IconButton that i'll need to figure out later, if it doesn't resolve itself.",
+    "entry": "performed"
+}

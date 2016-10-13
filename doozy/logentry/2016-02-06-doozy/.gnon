@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 300,
+    "date": "2016-02-06T07:00:00.000Z",
+    "details": "Add beginDate to Action in order to control the recurrence seed.\nPhase out focus store in favor of tag store filtered to focus tags.\nHost static images from user's git repo path.\nFocusListItem and FocusBar pull from git repo image.\nPhase out string tags in favor of full tag objects.\nBUGFIX: Boxed Action Container contains actions from all boxes in view\n",
+    "entry": "performed"
+}

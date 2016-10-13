@@ -1,0 +1,9 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-07-07",
+    "details": "- worrisome React warnings (firstChild, two copies of React)\n- Save column widths\n- refactor DataTable header to just use name when it's available and no custom header is present\n- make column headers smaller height wise",
+    "entry": "performed"
+}

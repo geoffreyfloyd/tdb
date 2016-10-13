@@ -1,0 +1,8 @@
+{
+    "date": "2015-05-26T04:00:00.000Z",
+    "entry": "performed",
+    "duration": 10,
+    "rootActionId": null,
+    "details": "Fix Combine Examinees Silent Error\n\nSomehow, it seems that using an explicit On Error Resume Next will cause it to populate the ADO Errors. Or Perhaps the problem is that I wasn't setting the Errors object to an ADO.Errors instance before trying to read from it.",
+    "userId": "db6f45f8-0c0e-4135-9a29-0be2c79a4eb1"
+}

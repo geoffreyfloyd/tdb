@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 480,
+    "date": "2016-03-17T06:00:00.000Z",
+    "details": "-update enum-to-js binary to match dependencies\n-check referrer url (ie. the application url) for a lang query param\n-add localization entries\n-update the list of scripts and localization files that should be published\n-localize string resources\n-add type prop to use of Button component and update Button PropTypes to specify the available options for 'type'\n-add webpack loader for json files\n-migrate kiosk layout generation from server to client side",
+    "entry": "performed"
+}

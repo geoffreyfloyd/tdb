@@ -1,0 +1,10 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-07-28",
+    "details": "- spend time with Brian to do git cleanup and merge request =20min\n- help Atilio solve context issue with predefined queries =20min\n- code review of datetimepicker branch =20min\n- rebase/clean/merge layout-strategies branch =3hrs,30min\n- resolve jenkins build issue =30min\n- progress on InputGroup refactor (wip/inputgroup) =3hrs",
+    "entry": "performed",
+    "kind": "performed"
+}

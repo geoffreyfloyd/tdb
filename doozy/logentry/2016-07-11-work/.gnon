@@ -1,0 +1,10 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-07-11",
+    "details": "- update node history when clicking on a site or hardware link cell\n- fix chance_rain_showers bug\n- add row highlighting to data table\n- merge and deploy branches to preview\n- get rid of arbitrary string length rules in Query Edit that were not based on the current data nor any systematic limits\n- clean up commit history and work out solid solutions from the rushed mish-mash of added functionality for the show\n- make portfolio model last upload nullable and iterate through site nodes in order to get all sites for a key, instead of only sites that have reported data",
+    "entry": "performed",
+    "kind": "performed"
+}

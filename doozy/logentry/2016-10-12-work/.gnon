@@ -1,0 +1,10 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-10-12",
+    "details": "\n- Resolve lastChanged issues with Tags to ensure two users don't step on eachother's changes",
+    "entry": "performed",
+    "kind": "performed"
+}

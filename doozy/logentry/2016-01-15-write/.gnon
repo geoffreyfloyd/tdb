@@ -1,0 +1,7 @@
+{
+    "rootActionId": null,
+    "duration": 0,
+    "date": "2016-01-15T07:00:00.000Z",
+    "details": "while you can't foretell the future with certainty, with a critical eye always looking forward, you can often spot an opportunity before it happens.\n===================\nOur internal developer week to kickstart the year ended today. We're officially going to migrate our main product to use React.js, and i'm leading the project. Support for Silverlight drops at the end of the year, so we need to replace our monolithic application by then. Challenge accepted.",
+    "entry": "performed"
+}
