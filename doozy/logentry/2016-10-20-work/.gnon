@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-10-20",
-    "details": "- Layout forms bug with InputTable\n- Variable Discussion: var, let, const guidelines\n- Fix bug with not terminating app & notifying user when using an unsupported browser\n- Fix Bug: Forms showChanges=False is not respected in components/pipeline\n- Fix Bug with node mixin that occurs with doNotSubscribe prop ",
+    "details": "- Layout forms bug with InputTable\n- Variable Discussion: var, let, const guidelines\n- Fix bug with not terminating app & notifying user when using an unsupported browser\n- Fix Bug: Forms showChanges=False is not respected in components/pipeline\n- Fix Bug with node mixin that occurs with doNotSubscribe prop used in SiteLink and HardwareLink cells (when a datatable is sorted)",
     "entry": "performed",
     "kind": "performed"
 }
