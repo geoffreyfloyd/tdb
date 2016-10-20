@@ -4,7 +4,7 @@
     "actionName": "",
     "duration": 0,
     "date": "2016-10-20",
-    "details": "- Layout forms bug with InputTable\n- Closures and let discussion",
+    "details": "- Layout forms bug with InputTable\n- Variable Discussion: let, const",
     "entry": "performed",
     "kind": "performed"
 }
