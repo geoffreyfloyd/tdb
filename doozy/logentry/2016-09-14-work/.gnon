@@ -1,0 +1,10 @@
+{
+    "actionId": null,
+    "rootActionId": null,
+    "actionName": "",
+    "duration": 0,
+    "date": "2016-09-14",
+    "details": "- clean up wizard history and merge into master\n- Troubleshoot issue with Chart end-of-day subscription\n- push to preview and test Kiosks\n- RecordChangedException handling",
+    "entry": "performed",
+    "kind": "performed"
+}
